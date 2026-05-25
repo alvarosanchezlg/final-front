@@ -1,0 +1,16 @@
+.filtros {
+  border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.filtros button {
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding: 7px;
+}
+
+.filtros input {
+  padding: 7px;
+  margin-right: 10px;
+}

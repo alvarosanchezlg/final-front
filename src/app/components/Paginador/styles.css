@@ -1,0 +1,15 @@
+.paginador {
+  display: flex;
+  gap: 8px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+
+.paginador button {
+  padding: 8px 12px;
+}
+
+.paginador .active {
+  background-color: black;
+  color: white;
+}
