@@ -22,8 +22,6 @@ Proyecto realizado para el examen final de Programación de Interfaces Web.
 
 ## Instalación y ejecución
 
-npm install
-npm run dev
-
-luego abrir en el navegador:
-http://localhost:3000
+- npm install
+- npm run dev
+- luego abrir en el navegador: http://localhost:3000
