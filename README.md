@@ -20,9 +20,10 @@ Proyecto realizado para el examen final de Programación de Interfaces Web.
 - Paginación.
 - Página dinámica de detalle de personaje.
 
-## Instalación
-
-Para instalar las dependencias:
+## Instalación y ejecución
 
 npm install
 npm run dev
+
+luego abrir en el navegador:
+http://localhost:3000
