@@ -66,7 +66,7 @@ const Home = () => {
 
   return (
     <main>
-      <h1>Ricardo y Mortirio</h1>
+      <h1>Buscador de personajes de la increible serie de Ricardo y Mortirio (Rick and Morty)</h1>
 
       <Filtros
         status={status}
